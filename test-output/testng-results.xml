@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-20T00:56:19 IST" name="OnlineTest" finished-at="2021-03-20T00:56:19 IST" duration-ms="363">
+    <groups>
+    </groups>
+    <test started-at="2021-03-20T00:56:19 IST" name="TestRun" finished-at="2021-03-20T00:56:19 IST" duration-ms="363">
+      <class name="DemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:DemoTest@16610890]" started-at="2021-03-20T00:56:19 IST" name="setUp" finished-at="2021-03-20T00:56:19 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="demoTest()[pri:0, instance:DemoTest@16610890]" started-at="2021-03-20T00:56:19 IST" name="demoTest" finished-at="2021-03-20T00:56:19 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoTest -->
+      </class> <!-- DemoTest -->
+    </test> <!-- TestRun -->
+  </suite> <!-- OnlineTest -->
+</testng-results>
